@@ -1,0 +1,75 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(30, 70, 66);
+    margin: 0;
+    padding: 20px;
+}
+
+#mainBox {
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    margin: 8px;
+    width: 80%;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(30, 30, 138);
+}
+
+ul {
+    text-align: left;
+}
+
+.Income {
+    background-color: rgb(122, 236, 122);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.expenses {
+    background-color: rgb(237, 127, 127);
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.balance {
+    background-color: yellow;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.Expense list heading {
+    margin-top: 20px;
+    color: darkblue;
+}
